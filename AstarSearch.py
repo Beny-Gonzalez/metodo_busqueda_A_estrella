@@ -1,4 +1,7 @@
+
+#La base de este codigo se baso de:
 #https://github.com/shahzaibk23/A-Star-Search-AI-Python
+
 
 from Conexiones import *
 from icecream import ic
